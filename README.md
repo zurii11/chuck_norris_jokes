@@ -1,24 +1,9 @@
 # chuck_norris_jokes
 
-## Project setup
-```
-npm install
-```
+This is a simple Chuck Norris jokes generator using api.chucknorris.io;
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Cause Chuck Norris is cool.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+That's it.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Use 'npm run serve'
